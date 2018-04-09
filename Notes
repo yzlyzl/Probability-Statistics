@@ -15,4 +15,12 @@ Book: 《Introduction to Mathematica Statistics》, Hogg, McKean, Craig
       定理 1.10.1（若高阶矩存在，则低阶矩也存在）, 马尔科夫不等式, 切比雪夫不等式（两种形式）, Convex Function, Jensen's Inequality, HM、GM、AM;
 
 2 Multivariate Distributions
-  
+  2.1 Distributions of Two Random Variables
+      Random Vector（cdf, pmf, pdf）, 边缘分布, Expectation（定义, 线性组合性质）, mgf（定义, 边缘分布的mgf）, expected value of a Random Vector;
+  2.2 Transformations: Bivariate Random Variables - 变量变换
+      离散情况, 连续情况（Jacobian）, mgf Technique；
+  2.3 Conditional Distributions and Expectations
+  2.4 The Correlation Coefficient
+  2.5 Independent Random Variables
+  2.6 Extension to Several Random Variables, 2.7 - 扩展到多个随机变量
+  2.8 Linear Combinations of Random Variables
